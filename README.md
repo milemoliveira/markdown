@@ -1,10 +1,12 @@
 # Markdown - Guia Rápido
 
 ## Sumário 
-### 1. [Títulos](https://github.com/milemoliveira/markdown#1-Títulos)
-### 2. [Parágrafos](https://github.com/milemoliveira/markdown#2-Estilo-de-texto)
+#### 1. [Títulos](https://github.com/milemoliveira/markdown#1-Títulos)
+#### 2. [Parágrafos](https://github.com/milemoliveira/markdown#2-Estilo-de-texto)
+#### 3. [Citações de texto](https://github.com/milemoliveira/markdown#2-Citações-de-texto)
+#### 4. [Citações de código](https://github.com/milemoliveira/markdown#2-Citações-de-código)
 
-## 1. Títulos
+### 1. Títulos
 Para criar um título, adicione o sinal (#) no início da linha. Os níveis variam de 1 (maior) a 6 (menor), o número de sinais utilizados corresponde ao nível do título. Por exemplo, para criar um título de nível quatro, utilize quatro sinais (####).
 
 Importante: **sempre** coloque um espaço entre o sinal e o título.
@@ -29,3 +31,12 @@ Importante: **não** utilize espaços.
 | Itálico | * ou _ | *Texto em itálico | 
 | Tachado | ~~ | ~~Texto tachado~~ | 
 | Negrito e itálico | *** ou **_ | **_Texto negrito e itálico_** | 
+
+## 3. Citações de texto
+Para adicionar uma citação, basta inseir o sinal (>) no início da frase. 
+> Este é um exemplo de citação de texto.
+
+## 4. Citação de código
+Para adicionar um trecho de um código, basta colocá-lo entre crases (`).
+
+Este é um exemplo de `citação de código`. 
